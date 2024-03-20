@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He<br>- 🔭 I’m currently working on Flutter.<br>- 🌱 I’m currently learning more about Back-end Development.<br>- 👯 I’m looking to collaborate on Flutter
+<br>- 🔭 I’m currently working on Flutter.<br>- 🌱 I’m currently learning more about Back-end Development.<br>- 👯 I’m looking to collaborate on Flutter
 <br>- 💬 Ask me about Flutter.<br>- 📫 How to reach me: Check social links below. https://www.linkedin.com/in/denish-harsoda-6b1307250/<br>- ⚡ Fun fact: Flutter uses its own customizable widgets and graphics engine, and offers a hot reload feature for faster development.
 
 
